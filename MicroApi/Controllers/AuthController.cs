@@ -9,7 +9,7 @@ namespace MicroApi.Controllers
         {
             app.MapPost("/login", (User user) =>
             {
-                if (user.Username == "admin" && user.Password == "123")
+                if (user.Username == "admin" && user.Password == "1234")
                 {
                     var token = TokenService.GenerateToken(user.Username, secret);
                     return Results.Ok(new { token });

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\joao_riboli\\Desktop\\Arquitetura\\MicroApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68B71306-8EC7-41E9-9245-1674657172BD}|MicroApi\\MicroApi.csproj|c:\\users\\joao_riboli\\desktop\\arquitetura\\microapi\\microapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68B71306-8EC7-41E9-9245-1674657172BD}|MicroApi\\MicroApi.csproj|solutionrelative:microapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{68B71306-8EC7-41E9-9245-1674657172BD}|MicroApi\\MicroApi.csproj|c:\\users\\joao_riboli\\desktop\\arquitetura\\microapi\\microapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68B71306-8EC7-41E9-9245-1674657172BD}|MicroApi\\MicroApi.csproj|solutionrelative:microapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68B71306-8EC7-41E9-9245-1674657172BD}|MicroApi\\MicroApi.csproj|c:\\users\\joao_riboli\\desktop\\arquitetura\\microapi\\microapi\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68B71306-8EC7-41E9-9245-1674657172BD}|MicroApi\\MicroApi.csproj|solutionrelative:microapi\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B71306-8EC7-41E9-9245-1674657172BD}|MicroApi\\MicroApi.csproj|c:\\users\\joao_riboli\\desktop\\arquitetura\\microapi\\microapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B71306-8EC7-41E9-9245-1674657172BD}|MicroApi\\MicroApi.csproj|solutionrelative:microapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68B71306-8EC7-41E9-9245-1674657172BD}|MicroApi\\MicroApi.csproj|c:\\users\\joao_riboli\\desktop\\arquitetura\\microapi\\microapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,17 +46,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\joao_riboli\\Desktop\\Arquitetura\\MicroApi\\MicroApi\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "MicroApi\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\joao_riboli\\Desktop\\Arquitetura\\MicroApi\\MicroApi\\Controllers\\AuthController.cs",
               "RelativeToolTip": "MicroApi\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T22:33:36.537Z",
               "EditorCaption": ""
@@ -100,13 +100,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ClientController.cs",
               "DocumentMoniker": "C:\\Users\\joao_riboli\\Desktop\\Arquitetura\\MicroApi\\MicroApi\\Controllers\\ClientController.cs",
               "RelativeDocumentMoniker": "MicroApi\\Controllers\\ClientController.cs",
               "ToolTip": "C:\\Users\\joao_riboli\\Desktop\\Arquitetura\\MicroApi\\MicroApi\\Controllers\\ClientController.cs",
               "RelativeToolTip": "MicroApi\\Controllers\\ClientController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T00:26:16.977Z",
               "EditorCaption": ""
@@ -137,13 +137,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\joao_riboli\\Desktop\\Arquitetura\\MicroApi\\MicroApi\\Program.cs",
               "RelativeDocumentMoniker": "MicroApi\\Program.cs",
               "ToolTip": "C:\\Users\\joao_riboli\\Desktop\\Arquitetura\\MicroApi\\MicroApi\\Program.cs",
               "RelativeToolTip": "MicroApi\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T22:47:21.162Z",
               "EditorCaption": ""
